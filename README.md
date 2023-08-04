@@ -16,22 +16,21 @@
 |       #       |     Title   | Summary |   
 |:-------------:|:-----------:|:-------:|
 | Chapter 1     |   Introduction | A brief history of statistical learning  |
-| [Chapter 2](https://github.com/Oyebamiji-Micheal/Introduction-to-Statistical-Learning-with-Python/tree/main/chapter-2)    |    Statistical Learning    |   Flexible and inflexible statistical learning methods \| Trade-off between accuracy and interpretability
+| Chapter 2    |    [Statistical Learning](https://github.com/Oyebamiji-Micheal/Introduction-to-Statistical-Learning-with-Python/tree/main/chapter-2)    |   Flexible and inflexible statistical learning methods \| Trade-off between accuracy and interpretability | 
 
 ## Disclaimer 
 This repo is for learning and self-improvement purposes. The materials, solutions, and content provided here are entirely based on my own understanding and efforts.
 
-1. No Association with the Textbook: This repository is in no way affiliated with the authors or publishers of the textbook "An Introduction to Statistical Learning in R" by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani. While the repository follows the concepts and exercises from the book, the solutions and explanations are entirely my own.
+1. <p align="justify">No Association with the Textbook: This repository is in no way affiliated with the authors or publishers of the textbook "An Introduction to Statistical Learning in R" by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani. While the repository follows the concepts and exercises from the book, the solutions and explanations are entirely my own.</p>
 
-2. Academic Integrity: I am committed to academic integrity and respect the intellectual property of others. The solutions and implementations in this repository are the result of my own work and understanding of the material.
+2. <p align="justify">Academic Integrity: I am committed to academic integrity and respect the intellectual property of others. The solutions and implementations in this repository are the result of my own work and understanding of the material.</p>
 
-3. Learning Purposes Only: The materials provided in this repository are intended solely for personal learning, documentation, and educational purposes. They should not be used for any commercial or for-profit activities.
+3. <p align="justify">Learning Purposes Only: The materials provided in this repository are intended solely for personal learning, documentation, and educational purposes. They should not be used for any commercial or for-profit activities.</p>
 
-4. No Guarantees: While I strive to provide accurate and reliable information, I make no warranties or guarantees about the correctness, completeness, or suitability of the content in this repository. Use the materials at your own discretion and risk.
+4. <p align="justify">No Guarantees: While I strive to provide accurate and reliable information, I make no warranties or guarantees about the correctness, completeness, or suitability of the content in this repository. Use the materials at your own discretion and risk.</p>
 
-5. Attribution: Any external sources, libraries, or code snippets used in the implementations will be properly attributed to their respective authors or creators, as applicable.
+5. <p align="justify">Attribution: Any external sources, libraries, or code snippets used in the implementations will be properly attributed to their respective authors or creators, as applicable.</p>
 
-6. Exercise Solutions: The exercise solutions provided here are my own interpretations and may not represent the official answers or solutions endorsed by the authors of the textbook.
+6. <p align="justify">Exercise Solutions: The exercise solutions provided here are my own interpretations and may not represent the official answers or solutions endorsed by the authors of the textbook.</p>
 
 Lastly, I express my gratitude to the authors of "An Introduction to Statistical Learning in R" for creating such a valuable resource that has inspired my learning journey.
-Happy learning!
