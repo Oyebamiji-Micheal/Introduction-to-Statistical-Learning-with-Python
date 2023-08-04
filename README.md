@@ -4,6 +4,7 @@
 <img src="images/textbook.jpeg" height="250">
 
 "Statistical learning is not just about algorithms; it's about curiosity and making sense of data." - Anonymous
+
 "The best way to learn is by doing. Embrace the exercises and dive into the world of statistical learning." - Anonymous
 
 ## About this repository 
@@ -15,7 +16,7 @@
 |       #       |     Title   | Summary |   
 |:-------------:|:-----------:|:-------:|
 | Chapter 1     |   Introduction | A brief history of statistical learning  |
-| [Chapter 2](https://github.com/Oyebamiji-Micheal/Introduction-to-Statistical-Learning-with-Python/tree/main/chapter-2)    |    Statistical Learning    |   Flexible and inflexible statistical learning methods \|Trade-off between accuracy and interpretability
+| [Chapter 2](https://github.com/Oyebamiji-Micheal/Introduction-to-Statistical-Learning-with-Python/tree/main/chapter-2)    |    Statistical Learning    |   Flexible and inflexible statistical learning methods \| Trade-off between accuracy and interpretability
 
 ## Disclaimer 
 This repo is for learning and self-improvement purposes. The materials, solutions, and content provided here are entirely based on my own understanding and efforts.
@@ -33,5 +34,4 @@ This repo is for learning and self-improvement purposes. The materials, solution
 6. Exercise Solutions: The exercise solutions provided here are my own interpretations and may not represent the official answers or solutions endorsed by the authors of the textbook.
 
 Lastly, I express my gratitude to the authors of "An Introduction to Statistical Learning in R" for creating such a valuable resource that has inspired my learning journey.
-
 Happy learning!
